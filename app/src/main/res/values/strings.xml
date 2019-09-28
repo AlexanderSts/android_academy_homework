@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Academy Minsk Movies</string>
+    <string name="txt_title">Avengers: Endgame</string>
+    <string name="txt_release">Released:</string>
+    <string name="txt_date">April 22, 2019</string>
+    <string name="txt_buttton">MOVIE TRAILER</string>
+    <string name="txt_overview">Overview:</string>
+    <string name="txt_description">1 There was an idea… 2 There was an idea… 3 There was an idea… 4 There was an idea… 5 There was an idea… 6 There was an idea… 7 There was an idea… 8 There was an idea… 9 There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea…
+        There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea…
+        There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea…
+        There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea…
+        There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea…</string>
+    <string name="toast_no_intent">No Intent available to handle action</string>
+</resources>
