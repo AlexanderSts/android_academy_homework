@@ -19,5 +19,16 @@ public class GoToUrlHelper {
                 Toast.makeText(ctx, R.string.toast_no_intent, Toast.LENGTH_SHORT).show()
             }
         }
+
+        fun gotoUrl(ctx: Context, res: Int) {
+            val intent =
+                Intent(Intent.ACTION_VIEW, Uri.parse(ctx.getString(res)))
+            val packageManager = ctx.getPackageManager()
+            if (intent.resolveActivity(packageManager) != null) {
+                ctx.startActivity(intent)
+            } else {
+                Toast.makeText(ctx, R.string.toast_no_intent, Toast.LENGTH_SHORT).show()
+            }
+        }
     }
 }

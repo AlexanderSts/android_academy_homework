@@ -8,4 +8,6 @@
     <dimen name="txt_padding_top">4dp</dimen>
     <dimen name="txt_padding_left">4dp</dimen>
     <dimen name="btn_padding">16dp</dimen>
+
+    <dimen name="list_item_h">150dp</dimen>
 </resources>

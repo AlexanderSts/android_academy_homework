@@ -11,4 +11,35 @@
         There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea…
         There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea… There was an idea…</string>
     <string name="toast_no_intent">No Intent available to handle action</string>
+
+    <string name="txt_title_2">Title 2</string>
+    <string name="txt_title_3">Title 3</string>
+    <string name="txt_title_4">Title 4</string>
+    <string name="txt_title_5">Title 5</string>
+    <string name="txt_title_6">Title 6</string>
+    <string name="txt_title_7">Title 7</string>
+    <string name="txt_title_8">Title 8</string>
+    <string name="txt_title_9">Title 9</string>
+    <string name="txt_title_10">Title 10</string>
+
+    <string name="txt_description_2">Description 2 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+    <string name="txt_description_3">Description 3 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+    <string name="txt_description_4">Description 4 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+    <string name="txt_description_5">Description 5 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+    <string name="txt_description_6">Description 6 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+    <string name="txt_description_7">Description 7 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+    <string name="txt_description_8">Description 8 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+    <string name="txt_description_9">Description 9 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+    <string name="txt_description_10">Description 10 D E S C R I P T I O N Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever... Best movie ever...</string>
+
+    <string name="txt_url_2">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="txt_url_3">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="txt_url_4">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="txt_url_5">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="txt_url_6">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="txt_url_7">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="txt_url_8">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="txt_url_9">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="txt_url_10">https://www.youtube.com/watch?v=6ZfuNTqbHE8</string>
+    <string name="unknown">\?? ??</string>
 </resources>
