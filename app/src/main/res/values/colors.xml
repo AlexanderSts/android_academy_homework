@@ -6,4 +6,5 @@
     <color name="colorTextUltra">#A000A0</color>
     <color name="colorTextDark">#000000</color>
     <color name="colorTextGray">#404040</color>
+    <color name="colorWhite">#ffffff</color>
 </resources>

@@ -51,10 +51,10 @@ class DetailsActivity : AppCompatActivity() {
 
     companion object {
 
-        private const val MOVIE_TITLE = "MOVIE_TITLE"
-        private const val MOVIE_DESCRIPTION = "MOVIE_DESCRIPTION"
-        private const val MOVIE_IMAGE = "MOVIE_IMAGE"
-        private const val MOVIE_URL = "MOVIE_URL"
+        const val MOVIE_TITLE = "MOVIE_TITLE"
+        const val MOVIE_DESCRIPTION = "MOVIE_DESCRIPTION"
+        const val MOVIE_IMAGE = "MOVIE_IMAGE"
+        const val MOVIE_URL = "MOVIE_URL"
 
         fun createIntent(context: Context, position: Int): Intent {
             val intent = Intent(context, DetailsActivity::class.java)

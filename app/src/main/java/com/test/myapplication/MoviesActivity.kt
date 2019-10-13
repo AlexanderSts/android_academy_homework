@@ -14,16 +14,32 @@ class MoviesActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_recycler)
-        val adapter = AdapterMovies(this) { position, resource ->
+        /*val adapter = AdapterMovies(this) { position, resource ->
             val intent = DetailsActivity.createIntent(this, position)
             startActivity(intent)
             //GoToUrlHelper.gotoUrl(this, resource)
+        }*/
+
+        val adapter = AdapterMovies(this) { position, resource ->
+            showDetailsFragment(position)
         }
         val list = findViewById<RecyclerView>(R.id.container_recycler)
         val llm = LinearLayoutManager(this)
         llm.orientation = LinearLayoutManager.VERTICAL
         list.layoutManager = llm
         list.adapter = adapter
+    }
+
+    private fun showDetailsFragment(
+
+        position: Int
+    ) {
+        val detailsFragment = DetailsGalleryFragment.newInstance(position)
+        supportFragmentManager
+            .beginTransaction()
+            .addToBackStack(null)
+            .add(R.id.container, detailsFragment)
+            .commit()
     }
 }
 
