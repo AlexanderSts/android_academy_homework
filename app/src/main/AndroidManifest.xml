@@ -19,6 +19,9 @@
         <activity android:name=".DetailsActivity">
 
         </activity>
+
+        <activity android:name=".threads_part.CoroutineActivity" />
+        <activity android:name=".threads_part.ThreadsActivity" />
     </application>
 
 </manifest>
