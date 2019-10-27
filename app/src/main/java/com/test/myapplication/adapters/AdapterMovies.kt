@@ -1,9 +1,9 @@
 package com.test.myapplication.adapters
 
 import android.content.Context
-import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import androidx.recyclerview.widget.RecyclerView
 import com.test.myapplication.R
 import com.test.myapplication.holders.HolderMoviesView
 import com.test.myapplication.providers.MoviesDataProvider

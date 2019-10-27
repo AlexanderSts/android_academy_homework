@@ -2,13 +2,13 @@ package com.test.myapplication;
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
-import android.support.v7.widget.RecyclerView
 import com.test.myapplication.adapters.AdapterMovies
 import com.test.myapplication.helpers.GoToUrlHelper
-import android.support.v7.widget.LinearLayoutManager
 import android.view.Menu
 import android.view.MenuItem
+import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.test.myapplication.threads_part.CoroutineActivity
 import com.test.myapplication.threads_part.ThreadsActivity
 
@@ -61,11 +61,6 @@ class MoviesActivity : AppCompatActivity() {
                 return true
             }
 
-            R.id.action_open_thread_handler -> {
-                // Open Thread Handler Activity
-                startActivity(Intent(this, ThreadsActivity::class.java))
-                return true
-            }
 
             else ->
                 // Invoke the superclass to handle it.

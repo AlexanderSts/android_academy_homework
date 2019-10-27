@@ -1,7 +1,7 @@
 package com.test.myapplication.holders
 
-import android.support.v7.widget.RecyclerView
 import android.view.View
+import androidx.recyclerview.widget.RecyclerView
 import com.test.myapplication.R
 import com.test.myapplication.providers.MoviesDataProvider.Companion.TYPE_DESCRIPTION
 import com.test.myapplication.providers.MoviesDataProvider.Companion.TYPE_IMAGE

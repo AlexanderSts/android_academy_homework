@@ -1,8 +1,9 @@
 package com.test.myapplication.threads_part;
 
+import android.content.res.Resources
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import by.androidacademy.firstapplication.threads.SimpleAsyncTask
 import com.test.myapplication.R
 
@@ -17,7 +18,6 @@ class ThreadsActivity : AppCompatActivity(), TaskEventContract.Lifecycle,
 
         if (savedInstanceState == null) {
             val fragment = CounterFragment.newInstance(
-                getString(R.string.fragment_handler_exe_title)
             ).also { threadsFragment = it }
 
             supportFragmentManager.beginTransaction()
